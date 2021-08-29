@@ -1,4 +1,4 @@
-## Howdy partner, fancy to see you here. In this parts they call me Renan 👋
+## Howdy partner, fancy to see you here. In this parts they call me Renan :horse_racing:
 
 - 🔭 I’m currently working at Accenture. Doing some Mobile development
 - 🌱 I’m currently learning Golang, Postgres, ReactJS/React-Native and Node.JS.
@@ -10,7 +10,7 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renan-S&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-S&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools: :hammer_and_wrench:</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,14 +27,14 @@
   ##
      
 <div> 
-  <h3 align="left">Social media:</h3>
+  <h3 align="left">Social media: :loudspeaker:</h3>
   <a href="https://www.linkedin.com/in/renancaval/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
   
   ##
   
 <div>
-  <h3 align="left"> It's dangerous to go alone! Here take this monke </h3>
+  <h3 align="left"> It's dangerous to go alone! Here take this monke :monkey_face: </h3>
   <img alt="Baboon smashing Mac gif" src="https://thumbs.gfycat.com/BasicComfortableIlsamochadegu-size_restricted.gif">
 </div>
     
