@@ -11,7 +11,6 @@
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-S&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <h3 align="left">Languages and Tools:</h3>
-  <div style="display: inline_block"><br>   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -23,12 +22,20 @@
    <a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="Nodejs icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">     
    <a href="https://expressjs.com/" target="_blank"> <img align="center" alt="ExpressJS icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">     
    <a href="https://www.docker.com/" target="_blank"> <img align="center" alt="Docker icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">     
-   <img align="right" alt="Baboon smashing Mac gif" src="https://thumbs.gfycat.com/BasicComfortableIlsamochadegu-size_restricted.gif">
+</div>
+     
+  ##
+     
+<div> 
+  <h3 align="left">Social media:</h3>
+  <a href="https://www.linkedin.com/in/renancaval/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
   
   ##
   
-  <div> 
-    <a href="https://www.linkedin.com/in/renancaval/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<div>
+  <h3 align="left"> It's dangerous to go alone! Here take this monke </h3>
+  <img alt="Baboon smashing Mac gif" src="https://thumbs.gfycat.com/BasicComfortableIlsamochadegu-size_restricted.gif">
 </div>
+    
     
