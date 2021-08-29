@@ -1,4 +1,4 @@
-## Howdy partner, they call me Renan 👋
+## Howdy partner, fancy to see you here. In this parts they call me Renan 👋
 
 - 🔭 I’m currently working at Accenture. Doing some Mobile development
 - 🌱 I’m currently learning Golang, Postgres, ReactJS/React-Native and Node.JS.
