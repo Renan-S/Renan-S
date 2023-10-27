@@ -35,7 +35,7 @@
   
 <div>
   <h3 align="left"> It's dangerous to go alone! Here take this monke :monkey_face: </h3>
-  <img alt="Baboon smashing Mac gif" src="https://media0.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=ecf05e47uiluhuoc203dnww9wd3922m3jxgm15o8wq3adf81&ep=v1_gifs_search&rid=giphy.gif">
+  <img alt="Baboon smashing Mac gif" src="https://media.tenor.com/RSQpmfKqGj0AAAAC/baboon-phone.gif">
 </div>
     
     
