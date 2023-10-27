@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Renan-S">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renan-S&show_icons=true&theme=nightowl&include_all_commits=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renan-S&show_icons=true&theme=nightowl&include_all_commits=true&count_private=false"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-S&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <h3 align="left">Languages and Tools: :hammer_and_wrench:</h3>
@@ -35,7 +35,7 @@
   
 <div>
   <h3 align="left"> It's dangerous to go alone! Here take this monke :monkey_face: </h3>
-  <img alt="Baboon smashing Mac gif" src="https://thumbs.gfycat.com/BasicComfortableIlsamochadegu-size_restricted.gif">
+  <img alt="Baboon smashing Mac gif" src="https://media0.giphy.com/media/5Zesu5VPNGJlm/giphy.gif?cid=ecf05e47uiluhuoc203dnww9wd3922m3jxgm15o8wq3adf81&ep=v1_gifs_search&rid=giphy.gif">
 </div>
     
     
