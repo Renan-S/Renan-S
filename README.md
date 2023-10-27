@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Renan-S">
-  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renan-S&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Renan-S&show_icons=true&theme=nightowl&include_all_commits=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-S&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <h3 align="left">Languages and Tools: :hammer_and_wrench:</h3>
