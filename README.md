@@ -1,7 +1,7 @@
 ## Howdy partner, fancy to see you here. In this parts they call me Renan :horse_racing:
 
-- 🔭 I’m currently working at Accenture. Doing some Mobile development
-- 🌱 I’m currently learning Golang, Postgres, ReactJS/React-Native and Node.JS.
+- 🔭 I’m currently doing some freelancing. If you have some project to me made, contact me using my email
+- 🌱 I’m currently learning Typescript, Next, ReactJS/React-Native and Node.JS.
 - 📫 How to reach me: renan.cav.ti@gmail.com
 - ⚡ I'm passionate about dating... Who am I kidding? My job denounces me. Humor is my thing (maybe?) and my goal is to always have fun! 
 
